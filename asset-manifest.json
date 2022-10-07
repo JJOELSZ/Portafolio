@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d8208fe.css",
+    "main.js": "/static/js/main.cd0b2569.js",
+    "static/media/restaurant.png": "/static/media/restaurant.7e1152d3a9156adf2f59.png",
+    "static/media/perfil.jpg": "/static/media/perfil.118cefba807b8ec8ccae.jpg",
+    "static/media/shopping.png": "/static/media/shopping.0f66484f55d8eb9116b2.png",
+    "static/media/cinema.png": "/static/media/cinema.2b0d547c3e0821f565a1.png",
+    "static/media/webprofesional.png": "/static/media/webprofesional.dce500dfd8cd3be4879f.png",
+    "static/media/portafolio.png": "/static/media/portafolio.f8d02b1e709da4d3f7e3.png",
+    "static/media/cvJoelSotoZegarra.pdf": "/static/media/cvJoelSotoZegarra.69b35e627513adcc0388.pdf",
+    "index.html": "/index.html",
+    "main.1d8208fe.css.map": "/static/css/main.1d8208fe.css.map",
+    "main.cd0b2569.js.map": "/static/js/main.cd0b2569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d8208fe.css",
+    "static/js/main.cd0b2569.js"
+  ]
+}
